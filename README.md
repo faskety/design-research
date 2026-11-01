@@ -6,6 +6,8 @@ Research notes on open-source UI component libraries and practical interface des
 
 **Design craft:** see [界面设计技巧](DESIGN-CRAFT.md) for practical guidance on hierarchy, whitespace, typography, color, motion and interaction.
 
+**Site studies:** see [Canvas UI 设计美学](CANVAS-UI-NOTES.md) for an aesthetic teardown of [canvasui.dev](https://canvasui.dev/).
+
 The local `study/` directory contains shallow clones (`--depth 1`) used for source reading and is ignored by Git. Update a local clone with `git -C study/<folder> pull`. Source links in the notes point to the commits used in the study.
 
 | Local folder | Repo | What it is |
